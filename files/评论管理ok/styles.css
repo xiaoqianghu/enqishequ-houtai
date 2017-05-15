@@ -3038,7 +3038,7 @@
 #u260 {
   position:absolute;
   left:2px;
-  top:10px;
+  top:18px;
   width:197px;
   word-wrap:break-word;
 }
@@ -3222,7 +3222,7 @@
 #u276 {
   position:absolute;
   left:2px;
-  top:18px;
+  top:2px;
   width:218px;
   word-wrap:break-word;
 }
@@ -3232,6 +3232,8 @@
   top:148px;
   width:141px;
   height:52px;
+  color:#CCCCCC;
+  text-align:center;
 }
 #u277_img {
   position:absolute;
