@@ -3585,7 +3585,7 @@
 #u304 {
   position:absolute;
   left:98px;
-  top:352px;
+  top:380px;
   width:121px;
   height:28px;
   font-family:'Arial Normal', 'Arial';
@@ -3633,7 +3633,7 @@
 #u308 {
   position:absolute;
   left:121px;
-  top:356px;
+  top:384px;
   visibility:hidden;
 }
 #u308_state0 {
@@ -3727,7 +3727,7 @@
 #u316 {
   position:absolute;
   left:98px;
-  top:410px;
+  top:438px;
   width:97px;
   height:28px;
   font-family:'Arial Normal', 'Arial';
@@ -3813,28 +3813,28 @@
 }
 #u324 {
   position:absolute;
-  left:1828px;
-  top:790px;
-  width:180px;
-  height:30px;
+  left:129px;
+  top:348px;
+  width:66px;
+  height:16px;
 }
 #u324_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:180px;
-  height:30px;
+  width:66px;
+  height:16px;
 }
 #u325 {
   position:absolute;
-  left:2px;
-  top:7px;
-  width:176px;
-  word-wrap:break-word;
+  left:0px;
+  top:0px;
+  width:66px;
+  white-space:nowrap;
 }
 #u326 {
   position:absolute;
-  left:2028px;
+  left:1828px;
   top:790px;
   width:180px;
   height:30px;
@@ -3855,47 +3855,68 @@
 }
 #u328 {
   position:absolute;
+  left:2028px;
+  top:790px;
+  width:180px;
+  height:30px;
+}
+#u328_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:180px;
+  height:30px;
+}
+#u329 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:176px;
+  word-wrap:break-word;
+}
+#u330 {
+  position:absolute;
   left:1748px;
   top:780px;
   width:540px;
   height:10px;
 }
-#u328_start {
+#u330_start {
   position:absolute;
   left:0px;
   top:-5px;
   width:18px;
   height:20px;
 }
-#u328_end {
+#u330_end {
   position:absolute;
   left:523px;
   top:-5px;
   width:18px;
   height:20px;
 }
-#u328_line {
+#u330_line {
   position:absolute;
   left:0px;
   top:5px;
   width:540px;
   height:1px;
 }
-#u329 {
+#u331 {
   position:absolute;
   left:1723px;
   top:218px;
   width:580px;
   height:629px;
 }
-#u329_img {
+#u331_img {
   position:absolute;
   left:0px;
   top:0px;
   width:580px;
   height:629px;
 }
-#u330 {
+#u332 {
   position:absolute;
   left:2px;
   top:306px;

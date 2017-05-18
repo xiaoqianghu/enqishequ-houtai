@@ -1,5 +1,6 @@
 ﻿body {
   margin:0px;
+  background-color:rgba(215, 215, 215, 1);
   background-image:none;
   position:static;
   left:auto;
@@ -3729,8 +3730,8 @@
 }
 #u330 {
   position:absolute;
-  left:727px;
-  top:365px;
+  left:682px;
+  top:367px;
   visibility:hidden;
 }
 #u330_state0 {
