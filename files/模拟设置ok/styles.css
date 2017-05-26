@@ -2936,7 +2936,7 @@
 #u214 {
   position:absolute;
   left:2px;
-  top:26px;
+  top:10px;
   width:307px;
   word-wrap:break-word;
 }
@@ -3003,7 +3003,7 @@
 #u220 {
   position:absolute;
   left:2px;
-  top:82px;
+  top:66px;
   width:142px;
   word-wrap:break-word;
 }
@@ -5195,4 +5195,25 @@
   top:5px;
   width:47px;
   height:1px;
+}
+#u396 {
+  position:absolute;
+  left:633px;
+  top:822px;
+  width:122px;
+  height:16px;
+}
+#u396_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:122px;
+  height:16px;
+}
+#u397 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:122px;
+  white-space:nowrap;
 }
